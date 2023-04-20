@@ -27,11 +27,8 @@ header {
     flex-direction: column;
     margin-top: 3rem;
     margin-bottom: 5rem;
+    /* border-right: solid rgb(255, 138, 13) 8px; */
 }
-
-/* body {
-    border: solid rgb(34, 255, 38) 8px;
-} */
 
 /* Box 1 */
 .quizz--box {
@@ -200,13 +197,13 @@ nav {
     background-color: rgb(221, 225, 240);
 }
 
-.link--home {
+.link--first {
     padding-left: 13%;
     padding-right: 13%;
 }
-.link--bookmark {
+.link--second {
     padding-right: 13%;
 }
-.link--profil {
+.link--third {
     padding-right: 13%;
 }
